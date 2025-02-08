@@ -9,11 +9,15 @@ I am Akshay Srivastav, a security researcher and bug hunter working in web3 spac
 
 **List of web3 projects secured:**
 
-    Coinbase, Kiln.Fi, Uniswap, Velodrome, Usual.Money, Tradable Financial, Drips Network, ZKsync, Superform, Mellow Finance, TitanX, BrahmaFi, Euler Finance, Arbitrum, Chainlink, Gravita Protocol, ENS, Aragon, Kuma, Reserve Protocol, Ondo Finance & PoolTogether.
+```
+Coinbase, Kiln.Fi, Uniswap, Velodrome, Usual.Money, Tradable Financial, Drips Network, ZKsync, Superform, Mellow Finance, TitanX, BrahmaFi, Euler Finance, Arbitrum, Chainlink, Gravita Protocol, ENS, Aragon, Kuma, Reserve Protocol, Ondo Finance & PoolTogether
+```
 
 **Amazing security researchers that I have worked with:**
 
-    cmichel, deadrosesxyz, csanuragjain, cergyk, rustyrabbit, high_byte, xiaoming90, NoahMarconi, Optimum, StErMi, iamchrissmith, windhustler, unforgiven, 0xkaden, 0xIcingdeath & hickuphh3
+```
+cmichel, deadrosesxyz, csanuragjain, cergyk, rustyrabbit, high_byte, xiaoming90, NoahMarconi, Optimum, StErMi, iamchrissmith, windhustler, unforgiven, 0xkaden, 0xIcingdeath & hickuphh3
+```
 
 Reach out to me at [`akshaysrivastav.com`](https://www.akshaysrivastav.com/).
 
@@ -57,6 +61,7 @@ Reach out to me at [`akshaysrivastav.com`](https://www.akshaysrivastav.com/).
 | Diffusion Valent  | [report](all-reports/diffusion-labs-valent-dec-2023.md) |
 | TitanX  | [report](all-reports/titanx-sep-2023.md) |
 | BrahmaFi  | [report](all-reports/brahma-console-may-2023.md) |
+<!-- | -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-  | -x-x-x-x-x-x- | -->
 
 </td>
 <td valign="top">
@@ -83,6 +88,7 @@ Reach out to me at [`akshaysrivastav.com`](https://www.akshaysrivastav.com/).
 | reNFT Protocol | [result](https://code4rena.com/audits/2024-01-renft) |
 | GoGoPool  | [result](https://code4rena.com/audits/2022-12-gogopool-contest) |
 | Escher  | [result](https://code4rena.com/audits/2022-12-escher-contest) |
+<!-- | -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-  | -x-x-x-x-x-x- | -->
 
 </td>
 </tr>
