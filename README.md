@@ -1,62 +1,89 @@
-# All my Security Audits, Reviews and Contributions
+## About Me
+I am Akshay Srivastav, a security researcher and bug hunter working in web3 space since 2018. Currently I am securing top web3 projects at [Spearbit](https://spearbit.com/) and [Cantina](https://cantina.xyz/u/AkshaySrivastav). In 2023 I was among the top auditors on [Code4rena](https://code4rena.com/leaderboard?timeframe=2023).
 
+#### Key highlights of my audit portfolio:
+- 50+ security reviews performed
+- 20+ audit contests won
+- 30+ web3 projects secured
+- 100+ critical/high/medium severity bugs reported
 
-### Public Audits & Bug Bounties Stats
-I participate on public audit platforms like Code4rena, Sherlock and Hats Finance. Till now I have :
+**List of web3 projects secured:**
 
-- Participated in 20+ public audits
-- Reported 50+ High and Medium severity bugs
+    Coinbase, Kiln.Fi, Uniswap, Velodrome, Usual.Money, Tradable Financial, Drips Network, ZKsync, Superform, Mellow Finance, TitanX, BrahmaFi, Euler Finance, Arbitrum, Chainlink, Gravita Protocol, ENS, Aragon, Kuma, Reserve Protocol, Ondo Finance & PoolTogether.
 
-### Top public audits
+**Amazing security researchers that I have worked with:**
 
-[comment]: <> (TODO - add Gravita report link)
+    cmichel, deadrosesxyz, csanuragjain, cergyk, rustyrabbit, high_byte, xiaoming90, NoahMarconi, Optimum, StErMi, iamchrissmith, windhustler, unforgiven, 0xkaden, 0xIcingdeath & hickuphh3
 
-| Audit Contest   |      Rank      |  Results |
-|----------|:-------------:|------:|
-| Ondo Finance |  1st | [link](https://code4rena.com/contests/2023-01-ondo-finance-contest) |
-| Gravita Protocol |    1st   |   [link](https://github.com/Gravita-Protocol/Gravita-SmartContracts/issues/238) |
-| Aragon Protocol | 4th |    [link](https://code4rena.com/contests/2023-03-aragon-protocol-contest) |
-| Pool Together | 4th |    [link](https://code4rena.com/contests/2022-12-pooltogether-contest) |
-| Caviar Protocol | 7th |    [link](https://code4rena.com/contests/2023-04-caviar-private-pools) |
-| Reserve Protocol | 9th |    [link](https://code4rena.com/contests/2023-01-reserve-contest) |
+Reach out to me at [`akshaysrivastav.com`](https://www.akshaysrivastav.com/).
 
-All my public bug reports can be found in [public-audits](public-audits/README.md).
+## List of audits
 
+<table>
+<tr>
+    <th style="text-align: center;">Private Reviews</th>
+    <th style="text-align: center;">Public Contests</th>
+</tr>
 
-### Interesting bugs that I have found
+<tr>
+<td valign="top">
 
-- First deposit bug in Ondo Finance (fork of Compound V2).
+| Protocols |  Reports |
+|----------|:------:|
+| Coinbase EIP7702 | [undisclosed]() |
+| Kiln.Fi 2.2 Migration | [undisclosed]() |
+| Usual.Money Distribution | [report](all-reports/usual-money-pegasus-jan-2025.pdf) |
+| Usual.Money M-Extension | [report](all-reports/usual-money-m-extension-dec-2024.pdf) |
+| Kiln.Fi Defi Integrations | [report](all-reports/kiln-defi-integrations-dec-2024.pdf) |
+| Coinbase Paymaster | [report](https://cantina.xyz/portfolio/88b09402-6430-411e-80b0-857854fbe9f3) [report](all-reports/coinbase-paymaster-v2-nov-2024.pdf) |
+| Uniswap Unichain Contracts | [report](all-reports/uniswap-unichain-contracts-nov-2024.pdf) |
+| Tradable Financial | [report](https://cantina.xyz/portfolio/1783f5fe-2fde-4f26-9a92-3e910ea70282) [report](all-reports/tradablefinance-onchain-v2-oct-2024.pdf) |
+| Velodrome | [report](all-reports/velodrome-superchain-oct-2024.pdf) |
+| Coinbase Wrapped Token | [report](https://cantina.xyz/portfolio/4cfd2d25-e2ff-4f9d-b0d9-cf865731de17) [report](all-reports/coinbase-cBTC-oct-2024.pdf) |
+| Uniswap Unichain Contracts  | [report](all-reports/uniswap-unichain-contracts-oct-2024.pdf) |
+| Drips Network | [report](all-reports/drips-sep-2024.pdf) |
+| Coinbase Usernames | [report](all-reports/coinbase-usernames-july-2024.pdf) |
+| ZKsync Threat Modelling  | [report](all-reports/zksync-governance-threat-modelling-aug-2024.md) |
+| Tradable Financial | [report](all-reports/tradablefinance-onchain-v2-jul-2024.pdf) |
+| Coinbase Usernames | [report](all-reports/coinbase-usernames-july-2024.pdf) |
+| Superform  | [report](all-reports/superform-core-jul-2024.pdf) |
+| Coinbase Usernames | [report](all-reports/coinbase-usernames-june-2024.pdf) |
+| Diffusion Staking  | [report](all-reports/diffusion-labs-blue-staking-apr-2024.md) |
+| Kiln.Fi v2.2  | [report](all-reports/kiln-vsuite-2_2-apr-2024.pdf) |
+| Mellow Finance  | [report](https://cantina.xyz/portfolio/72dfcce6-8b1b-4f5d-b5a7-657a40507b10) [report](all-reports/mellow-apr-2024.pdf) |
+| Kiln.Fi v2.1  | [report](all-reports/kiln-vsuite-2_1-apr-2024.pdf) |
+| Uniswap Unitags Resolver  | [report](all-reports/uniswap-unitags-resolver-jan-2024.pdf) |
+| Diffusion Valent  | [report](all-reports/diffusion-labs-valent-jan-2024.md) |
+| Diffusion Valent  | [report](all-reports/diffusion-labs-valent-dec-2023.md) |
+| TitanX  | [report](all-reports/titanx-sep-2023.md) |
+| BrahmaFi  | [report](all-reports/brahma-console-may-2023.md) |
 
-    The report shows how a token balance inflation attack can be performed on the protocol to steal user's deposit. More details in my blog post [here](https://www.akshaysrivastav.com/articles/first-deposit-bug-in-compound-v2) and in the [report](/public-audits/2023-01-ondo/[MEDIUM]-First_deposit_bug/README.md).
+</td>
+<td valign="top">
 
-- Broken fallback price mechanism in Gravita Protocol
+| Protocols  | Results |
+|----------|:------:|
+| Ondo Finance  | [result](https://code4rena.com/audits/2023-01-ondo-finance-contest) |
+| Chainlink CCIP  | [result](https://code4rena.com/audits/2023-05-chainlink-cross-chain-services-ccip-and-arm-network) |
+| Tangible Caviar  | [result](https://code4rena.com/audits/2023-08-tangible-caviar) |
+| Tangible Caviar Mitigation  | [result](https://code4rena.com/audits/2023-09-tangible-caviar-mitigation-review) |
+| Euler Finance V2 | [result](https://cantina.xyz/competitions/41306bb9-2bb8-4da6-95c3-66b85e11639f/leaderboard) |
+| Arbitrum Security Council  | [result](https://code4rena.com/audits/2023-08-arbitrum-security-council-election-system) |
+| Aragon Protocol  | [result](https://code4rena.com/audits/2023-03-aragon-protocol-contest) |
+| Uniswap V4  | [result](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659/leaderboard) |
+| Gravita Protocol  | [result](https://app.hats.finance/audit-competitions/gravita-0xa9cb786e4d07117d11b4644f54c5a4f1567e3817/leaderboard) |
+| Caviar Pools | [result](https://code4rena.com/audits/2023-04-caviar-private-pools) |
+| PoolTogether EIP5164  | [result](https://code4rena.com/audits/2022-12-pooltogether-contest) |
+| ZkSync Era | [result](https://code4rena.com/audits/2023-10-zksync-era) |
+| Bond Options  | [result](https://audits.sherlock.xyz/contests/99/report) |
+| ENS Domains | [result](https://code4rena.com/audits/2023-04-ens-contest) |
+| Kuma Protocol | [result](https://code4rena.com/reports/2023-02-kuma) |
+| Reserve Protocol | [result](https://code4rena.com/audits/2023-01-reserve-contest) |
+| Reserve Protocol Mitigation  | [result](https://code4rena.com/audits/2023-02-reserve-versus-mitigation-contest) |
+| reNFT Protocol | [result](https://code4rena.com/audits/2024-01-renft) |
+| GoGoPool  | [result](https://code4rena.com/audits/2022-12-gogopool-contest) |
+| Escher  | [result](https://code4rena.com/audits/2022-12-escher-contest) |
 
-    The report demonstrate the broken fallback price oracle implementation of the protocol which can lead to protocol suffering a complete DoS. More details in the [report](/public-audits/2023-04-gravita/[MEDIUM]-PriceFeed:_Incorrectfallback_price_mechanism_leading_to_protocol_DoS/README.md).
-
-- Incorrect implementation of cross-chain smart contract system in PoolTogether protocol.
-    
-    This report shows how an incorrect implementation of cross chain system can cause loss of funds to the connecting transport layer. More details in the [report](/public-audits/2022-12-pooltogether/[MEDIUM]-'CrossChainExecutor'_contracts_do_not_update_the_necessary_states_for_failing_transactions./README.md).
-
-- Critical monetary loss bug in GoGoPool (an Ethereum staking protocol).
-    
-    This report shows how the funds staked by users in the staking protocol can be nullified by an attacker causing loss of funds to users. More details in the [report](/public-audits/2022-12-gogopool/[HIGH]-Funds_of_Node_Operators_can_be_nullified_by_any_attacker/README.md).
-
-- Frontrunning the use of CREATE2 in Caviar protocol.
-    
-    This report demonstrates how the inefficient use of CREATE2 can be exploited by front-running to steal user's funds. More details in the [report](/public-audits/2023-04-caviar/[MEDIUM]-'Factory.create':_Predictability_of_pool_address_creates_multiple_issues./README.md).
-
-### Some of my High severity findings
-
-| Audit Contest   |      Finding      |  Details |
-|----------|:-------------|:------:|
-| Caviar Protocol |  Funds can be stolen from pool due to inefficient royalty distribution | [link](/public-audits/2023-04-caviar/[HIGH]-Funds_can_be_stolen_from_pool_due_to_inefficient_royalty_distribution/README.md) |
-| Rabbithole Protocol |  `withdrawRemainingTokens` and `withdrawFee` functions can be used to pull out user funds | [link](/public-audits/2023-01-rabbithole/[HIGH]-'withdrawRemainingTokens'_and_'withdrawFee'_functions_can_be_used_to_pull_out_user_funds/README.md) |
-| GoGoPool Protocol |  Funds of Node Operators can be nullified by any attacker | [link](/public-audits/2022-12-gogopool/[HIGH]-Funds_of_Node_Operators_can_be_nullified_by_any_attacker/README.md) |
-| Escher Protocol |  Loss of ETH for NFT buyers  | [link](/public-audits/2022-12-escher/[HIGH]-Loss_of_ETH_for_NFT_buyers_in_LPDA_contract/README.md) |
-
-
-Beyond these reports, some of my findings has been kept private on protocol's requests. Results of some public audit contests and bounties are still pending, I'll add those once they are announced.
-
-### Private Audits
-All my private audit contributions can be found in [private-audits](private-audits/README.md).
-
+</td>
+</tr>
+</table>
