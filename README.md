@@ -9,15 +9,11 @@ I am Akshay Srivastav, a security researcher and bug hunter working in web3 spac
 
 **List of web3 projects secured:**
 
-```
-Coinbase, Kiln.Fi, Uniswap, Velodrome, Usual.Money, Tradable Financial, Drips Network, ZKsync, Superform, Mellow Finance, TitanX, BrahmaFi, Euler Finance, Arbitrum, Chainlink, Gravita Protocol, ENS, Aragon, Kuma, Reserve Protocol, Ondo Finance & PoolTogether
-```
+> Coinbase, Kiln.Fi, Uniswap, Velodrome, Usual.Money, Tradable Financial, Drips Network, ZKsync, Superform, Mellow Finance, TitanX, BrahmaFi, Euler Finance, Arbitrum, Chainlink, Gravita Protocol, ENS, Aragon, Kuma, Reserve Protocol, Ondo Finance & PoolTogether
 
 **Amazing security researchers that I have worked with:**
 
-```
-cmichel, deadrosesxyz, csanuragjain, cergyk, rustyrabbit, high_byte, xiaoming90, NoahMarconi, Optimum, StErMi, iamchrissmith, windhustler, unforgiven, 0xkaden, 0xIcingdeath & hickuphh3
-```
+> cmichel, deadrosesxyz, csanuragjain, cergyk, rustyrabbit, high_byte, xiaoming90, NoahMarconi, Optimum, StErMi, iamchrissmith, windhustler, unforgiven, 0xkaden, 0xIcingdeath & hickuphh3
 
 Reach out to me at [`akshaysrivastav.com`](https://www.akshaysrivastav.com/).
 
