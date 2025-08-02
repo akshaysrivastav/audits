@@ -30,8 +30,15 @@ Reach out to me at [`akshaysrivastav.com`](https://www.akshaysrivastav.com/).
 
 | Protocols |  Reports |
 |----------|:------:|
-| Coinbase EIP7702 | [undisclosed]() |
-| Kiln.Fi 2.2 Migration | [undisclosed]() |
+| Kiln Defi Integrations | [undisclosed]() |
+| Kuru Part 2| [undisclosed]() |
+| Kuru Part 1 | [undisclosed]() |
+| Kiln Pectra Upgrade | [report](all-reports/kiln-pectra-upgrade-may-2025.pdf) |
+| Kiln Defi Integrations | [report](all-reports/kiln-defi-integrations-apr-2025.pdf) |
+| Sablier | [report](all-reports/sablier-airdrops-apr-2025.pdf) [report](all-reports/sablier-flow-apr-2025.pdf) [report](all-reports/sablier-lockup-apr-2025.pdf) |
+| OpenTrade | [report](all-reports/opentrade-mar-2025.pdf) |
+| Coinbase EIP7702 | [report](https://github.com/base/eip-7702-proxy/blob/main/audits/Cantina-February-2025.pdf) [report](all-reports/coinbase-eip7702-feb-2025.pdf) |
+| Kiln.Fi 2.2 Migration | [report](all-reports/kiln-vsuite-2_2-jan-2025.pdf) |
 | Usual.Money Distribution | [report](all-reports/usual-money-pegasus-jan-2025.pdf) |
 | Usual.Money M-Extension | [report](all-reports/usual-money-m-extension-dec-2024.pdf) |
 | Kiln.Fi Defi Integrations | [report](all-reports/kiln-defi-integrations-dec-2024.pdf) |
