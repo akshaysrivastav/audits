@@ -30,8 +30,13 @@ Reach out to me at [`akshaysrivastav.com`](https://www.akshaysrivastav.com/).
 
 | Protocols |  Reports |
 |----------|:------:|
+| Brevis Uniswap V4 Hook| [undisclosed]() |
+| Kyber Uniswap V4 Hook| [undisclosed]() |
+| Coinbase Flywheel| [undisclosed]() |
+| OpenTrade | [undisclosed]() |
+| Coinbase Tangor | [undisclosed]() |
 | Kiln Defi Integrations | [undisclosed]() |
-| Kuru Part 2| [undisclosed]() |
+| Kuru Part 2 | [undisclosed]() |
 | Kuru Part 1 | [undisclosed]() |
 | Kiln Pectra Upgrade | [report](all-reports/kiln-pectra-upgrade-may-2025.pdf) |
 | Kiln Defi Integrations | [report](all-reports/kiln-defi-integrations-apr-2025.pdf) |
